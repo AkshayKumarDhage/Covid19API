@@ -53,6 +53,7 @@ public class StateDistrictAPIResponse {
 	@Getter
 	@Setter
 	public static class District{
+		private int active;
 		private int confirmed;
 		private int deceased;
 		private int recovered;
