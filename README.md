@@ -1,4 +1,4 @@
-# SpringBootWebApp For Covid19 Stats 
+# SpringBoot Rest Api For Covid19 Stats 
 
 ## This is Spring Boot Rest api project which can be used to request Covid19 cases stats for Districts in India Region.
 
