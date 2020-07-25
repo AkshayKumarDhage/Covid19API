@@ -10,3 +10,5 @@ API Documentation@ : https://covid-spring-api.herokuapp.com/swagger-ui.html
 2. Maven
 3. Tested on Postman Rest api client
 4. Swagger for api documentation
+
+[![HitCount](http://hits.dwyl.com/AkshayKumarDhage/Covid19API.svg)](http://hits.dwyl.com/AkshayKumarDhage/Covid19API)
